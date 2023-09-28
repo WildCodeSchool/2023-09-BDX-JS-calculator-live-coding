@@ -1,0 +1,24 @@
+/* général */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 30px;
+}
+body {
+    padding: 20px 5%;
+}
+
+
+/* bloc résultat */
+
+.border-black {    
+    border: 1px solid black;
+}
+
+.result {
+    width: 100%;
+    text-align: right;
+    padding: 20px 15px;
+}
